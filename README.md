@@ -43,11 +43,10 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 
 ## 🚀 Projects
 
-- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app)
+- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app) [Live Link](https://quiz-app-c786.onrender.com/)
 
-- **Portfolio Manager**: A TypeScript-based portfolio management system that helps track investments and financial performance with interactive visualizations. [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
+- **Portfolio Manager**: A TypeScript-based portfolio management system that helps track investments and financial performance with interactive visualizations. [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager) 
 
-- **Project 3**: Brief description [GitHub](link-to-repo)
 
 ## 📊 GitHub Stats
 
