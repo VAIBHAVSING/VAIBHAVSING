@@ -43,16 +43,16 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 
 ## 🚀 Projects
 
-- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app) [Live Link](https://quiz-app-c786.onrender.com/)
+- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app)  [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
 
-- **Portfolio Manager**: A TypeScript-based portfolio management system that helps track investments and financial performance with interactive visualizations. [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager) 
-
+- **Portfolio Manager**: A TypeScript-based portfolio management system that helps track investments and financial performance with interactive visualizations. [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSING&show_icons=true&theme=radical)
+<!-- Add the following parameters to make the stats update more frequently: &cache_seconds=1800 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSING&show_icons=true&theme=radical&cache_seconds=1800&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSING&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSING&layout=compact&theme=radical&cache_seconds=1800&hide=html)
 
 ## 📈 Contribution Calendar
 
@@ -79,4 +79,4 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 
 ⭐️ From [VAIBHAVSING](https://github.com/VAIBHAVSING)
 
-<!-- Last Updated: 2025-03-07 20:15:08 UTC -->
+<!-- Last Updated: 2025-03-07 20:24:07 UTC -->
