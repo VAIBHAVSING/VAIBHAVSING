@@ -43,16 +43,19 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 
 ## 🚀 Projects
 
-- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app)  [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
+- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app) [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
 
 - **Portfolio Manager**: A TypeScript-based portfolio management system that helps track investments and financial performance with interactive visualizations. [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
 
 ## 📊 GitHub Stats
 
-<!-- Add the following parameters to make the stats update more frequently: &cache_seconds=1800 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSING&show_icons=true&theme=radical&cache_seconds=1800&count_private=true)
+<!-- Dynamic GitHub Stats with additional parameters -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSING&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSING&layout=compact&theme=radical&cache_seconds=1800&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSING&layout=compact&theme=radical&hide=html&langs_count=10&cache_seconds=1800)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAVSING&theme=radical)
 
 ## 📈 Contribution Calendar
 
@@ -79,4 +82,4 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 
 ⭐️ From [VAIBHAVSING](https://github.com/VAIBHAVSING)
 
-<!-- Last Updated: 2025-03-07 20:24:07 UTC -->
+<!-- Last Updated: 2025-03-07 20:28:29 UTC -->
