@@ -43,20 +43,25 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 
 ## 🚀 Projects
 
-<!-- You can add your projects here -->
-- **Project 1**: Brief description [GitHub](link-to-repo)
-- **Project 2**: Brief description [GitHub](link-to-repo)
+- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app)
+
+- **Portfolio Manager**: A TypeScript-based portfolio management system that helps track investments and financial performance with interactive visualizations. [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
+
 - **Project 3**: Brief description [GitHub](link-to-repo)
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSINGbuild&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSING&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSINGbuild&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSING&layout=compact&theme=radical)
+
+## 📈 Contribution Calendar
+
+<!-- GitHub Contribution Calendar -->
+<img src="https://ghchart.rshah.org/VAIBHAVSING" alt="VAIBHAVSING's GitHub Contribution Calendar" />
 
 ## 🌱 I'm currently learning
 
-<!-- You can update this section with what you're currently learning -->
 - Advanced React patterns and performance optimization
 - Next.js server components and app router
 - Prisma ORM for database management
@@ -67,13 +72,12 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 
 ## 📫 How to reach me
 
-<!-- Add your contact information or social media links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
 
 ---
 
-⭐️ From [VAIBHAVSINGbuild](https://github.com/VAIBHAVSINGbuild)
+⭐️ From [VAIBHAVSING](https://github.com/VAIBHAVSING)
 
-<!-- Last Updated: 2025-03-07 20:11:20 UTC -->
+<!-- Last Updated: 2025-03-07 20:15:08 UTC -->
