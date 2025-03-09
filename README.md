@@ -57,11 +57,6 @@ I'm a passionate developer with expertise in both frontend and backend technolog
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAVSING&theme=radical)
 
-## 📈 Contribution Calendar
-
-<!-- GitHub Contribution Calendar -->
-<img src="https://ghchart.rshah.org/VAIBHAVSING" alt="VAIBHAVSING's GitHub Contribution Calendar" />
-
 ## 🌱 I'm currently learning
 
 - Advanced React patterns and performance optimization
