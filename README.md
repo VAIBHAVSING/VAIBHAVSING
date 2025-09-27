@@ -1,80 +1,101 @@
-# Hi there, I'm VAIBHAV SINGH 👋
+# Hey there! 👋 I'm Vaibhav Patil
 
-## 💻 Full Stack Developer
+<div align="center">
 
-I'm a passionate developer with expertise in both frontend and backend technologies. I enjoy building robust, scalable applications and solving complex problems through code.
+## 🚀 Software Engineer | Open Source Contributor | Building the Future with Code
 
-## 🛠️ Technical Skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhavsing.me-blue?style=for-the-badge&logo=vercel)](https://vaibhavsing.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhavpatil24-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhavpatil24/)
+[![Email](https://img.shields.io/badge/Email-vpatil5212%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:vpatil5212@gmail.com)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### State Management & Data Fetching
-![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Databases & ORM
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## 🚀 Projects
-
-- **Quiz App**: An interactive quiz application built with React and TypeScript, featuring dynamic question sets and real-time scoring. [GitHub](https://github.com/VAIBHAVSING/quiz-app) [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
-
-- **Portfolio Manager**: A TypeScript-based portfolio management system that helps track investments and financial performance with interactive visualizations. [GitHub](https://github.com/VAIBHAVSING/Portfolio-Manager)
-
-## 📊 GitHub Stats
-
-<!-- Dynamic GitHub Stats with additional parameters -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSING&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSING&layout=compact&theme=radical&hide=html&langs_count=10&cache_seconds=1800)
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAVSING&theme=radical)
-
-## 🌱 I'm currently learning
-
-- Advanced React patterns and performance optimization
-- Next.js server components and app router
-- Prisma ORM for database management
-- State management with Recoil
-- Data fetching with TanStack Query
-- AWS Cloud Architecture and Solutions
-- Docker containerization and orchestration
-
-## 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
+</div>
 
 ---
 
-⭐️ From [VAIBHAVSING](https://github.com/VAIBHAVSING)
+## 🎓 About Me
 
-<!-- Last Updated: 2025-03-07 20:28:29 UTC -->
+**Computer Science Student** at Pune University (CGPA: 8.5/10) | **Y Combinator Alum** 
+
+Former **Software Engineering Intern** at [Lingo.dev](https://lingo.dev) (YC-F24), where I contributed to SDKs, CLI tools, and developer platforms that help teams integrate seamlessly.
+
+## 💻 What I Do
+
+```typescript
+const vaibhav = {
+    role: "Full-Stack Developer & Open Source Contributor",
+    code: ["TypeScript", "JavaScript", "Go", "Python", "Java"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
+    backend: ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+    cloud: ["AWS", "GCP", "Azure", "Docker", "CI/CD"],
+    tools: ["Git", "GitHub Actions", "Vercel", "Postman"],
+    currentFocus: "Building scalable web applications and cloud infrastructure",
+    openSource: "50+ contributions across various projects"
+};
+```
+
+## 🛠️ Featured Projects
+
+### 🤖 [Unified Cloud SDK](https://github.com/VAIBHAVSING/Cloudsdk)
+**Go | Cloud Infrastructure | Multi-Cloud**
+- Unified API for AWS, GCP, and Azure services
+- Consistent developer experience across cloud providers
+- Published on Go Package Registry
+
+### 🧠 [MERN Quiz Platform](https://github.com/VAIBHAVSING/Quiz-app-MERN)
+**React | Node.js | MongoDB | JWT**
+- Full-stack quiz application with real-time scoring
+- Admin dashboard for creating and managing quizzes
+- Secure authentication and user management
+- [Live Demo](https://quiz.vaibhavsing.me/)
+
+## 📈 Impact & Achievements
+
+- 🚀 **Performance Optimization**: Achieved 30% bundle size reduction in production React applications
+- 🔧 **CI/CD Implementation**: Built automated testing and deployment pipelines
+- 🌟 **Open Source**: 50+ contributions to various projects and maintainer experience
+- 🏆 **Hackathons**: Participated and secured top positions in coding competitions
+- 👨‍🏫 **Mentorship**: Led technical workshops for junior developers
+
+## 🌟 Current Focus
+
+```bash
+# Always learning, always building
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'
+
+Working on:
+- Advanced System Design patterns
+- Compiler Construction techniques  
+- AI/ML integration in web applications
+- Contributing to open source projects
+
+$ git add . && git commit -m "Building the future, one commit at a time"
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIBHAVSING&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAVSING&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on interesting projects, discuss technology, or help fellow developers. Feel free to reach out!
+
+- 🌐 **Portfolio**: [vaibhavsing.me](https://vaibhavsing.me)
+- 💼 **LinkedIn**: [vaibhavpatil24](https://linkedin.com/in/vaibhavpatil24/)
+- 📧 **Email**: [vpatil5212@gmail.com](mailto:vpatil5212@gmail.com)
+- 📅 **Schedule a Call**: [15min Chat](https://cal.com/vaibhavsing/15min)
+
+---
+
+<div align="center">
+
+**"Code is not just my profession, it's my passion. Let's build something amazing together!"**
+
+</div>
