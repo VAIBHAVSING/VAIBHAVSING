@@ -14,7 +14,7 @@
 
 ## 🎓 About Me
 
-**Computer Science Student** at Pune University (CGPA: 8.5/10) | **Y Combinator Alum** 
+**Computer Science Student** at Pune University 
 
 Former **Software Engineering Intern** at [Lingo.dev](https://lingo.dev) (YC-F24), where I contributed to SDKs, CLI tools, and developer platforms that help teams integrate seamlessly.
 
